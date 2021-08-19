@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+.cat_container {
+  display: flex;
+  width: 20%;
+  margin: 20px 0px 20px 40%;
+  justify-content: center;
+  border: 1px solid;
+  padding: 20px 0;
+}
+
+.product_container {
+  width: 50%;
+  margin-left: 25%;
+}
+
+.cat_container ul {
+  padding-left: 0;
+}
+
+.cat_container ul li {
+  list-style-type: none;
+}
